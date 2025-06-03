@@ -1,0 +1,16 @@
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\bin\Debug\net5.0\zd1_Gurina.exe
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\bin\Debug\net5.0\zd1_Gurina.deps.json
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\bin\Debug\net5.0\zd1_Gurina.runtimeconfig.json
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\bin\Debug\net5.0\zd1_Gurina.runtimeconfig.dev.json
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\bin\Debug\net5.0\zd1_Gurina.dll
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\bin\Debug\net5.0\ref\zd1_Gurina.dll
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\bin\Debug\net5.0\zd1_Gurina.pdb
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\obj\Debug\net5.0\zd1_Gurina.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\obj\Debug\net5.0\zd1_Gurina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\obj\Debug\net5.0\zd1_Gurina.AssemblyInfoInputs.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\obj\Debug\net5.0\zd1_Gurina.AssemblyInfo.cs
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\obj\Debug\net5.0\zd1_Gurina.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\obj\Debug\net5.0\zd1_Gurina.dll
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\obj\Debug\net5.0\ref\zd1_Gurina.dll
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\obj\Debug\net5.0\zd1_Gurina.pdb
+C:\Users\305-10\Desktop\Гурина ПР-21\zd1_Gurina\obj\Debug\net5.0\zd1_Gurina.genruntimeconfig.cache

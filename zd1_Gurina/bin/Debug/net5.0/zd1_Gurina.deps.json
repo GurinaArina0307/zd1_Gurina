@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "zd1_Gurina/1.0.0": {
+        "runtime": {
+          "zd1_Gurina.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zd1_Gurina/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
